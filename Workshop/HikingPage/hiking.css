@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+table{
+    margin: auto;
+}
+
+a{
+color: white;
+font-size: x-large;
+
+}
+
+a:hover{
+    color: gray;
+}

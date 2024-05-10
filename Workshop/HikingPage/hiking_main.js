@@ -5,8 +5,7 @@ function showNonImageDetails(hike) {
     <h1>${hike.name}</h1>
     <p>${hike.description}</p>
     <table><tr><th>Length:</th><th>Difficulty:</th></tr>
-    <tr><td>${hike.length}</td><td>${hike.difficulty}</td></td></table>
-        <p> ID: ${hike.id}</p>
+    <tr><td>${hike.length}</td><td>${hike.difficulty}</td></td></table><p> ID: ${hike.id}</p>
     `
 }
 function showImage(imageName, title) {

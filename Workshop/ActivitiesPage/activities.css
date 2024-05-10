@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+a{
+    color: white;
+    font-size: x-large;
+    
+    }
+    
+    a:hover{
+        color: gray;
+    }
